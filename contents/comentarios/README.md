@@ -12,6 +12,16 @@ puts idade
 
 Como mostrado no código acima, para criarmos um comentário em ruby é simples, apenas coloque uma *Hashtag* no começo da linha e pronto, a linha inteira será um comentário.
 
+Para comentários de múltiplas linhas, podemos usar como o exemplo abaixo:
+```ruby
+=begin
+esse
+é um comentário
+com multiplas linhas
+=end
+idade = 20
+```
+
 ## Proximo =>
 
 [Operadores](../operadores/README.md)
