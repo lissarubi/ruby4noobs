@@ -20,3 +20,6 @@ Ruby usa uma tabela de símbolos interna com os nomes de variáveis, objetos, m�
 
 Como veremos a seguir, os símbolos são particularmente úteis para [Hashes](../hashes/README.md).
 
+## Proximo =>
+
+[Hashes](../hashes/README.md)
