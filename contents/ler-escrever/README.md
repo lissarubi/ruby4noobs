@@ -73,4 +73,4 @@ Escrevemos o conteúdo, e usamos o ``File.write`` passando como argumento um mod
 
 ## Proximo =>
 
-[O que é o Rails?](../rails/README.md)
+[Simbolos](../simbolos/README.md)
