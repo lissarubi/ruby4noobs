@@ -91,7 +91,7 @@ Os Hashes é uma forma simples de representar estructuras de dados
 dentro do Ruby e são normalmente usados como parâmetros nomeados dentro de funções dentro de Ruby e Rails
 
 Notaçao:
-Em Ruby e muinto comum utilizar 
+Em Ruby e muito comum utilizar 
 
 [Simbolos](../simbolos/README.md) para representar as chaves.
 
