@@ -120,6 +120,32 @@ precos = [19.90, 10, 2.33, 0.99]
 puts precos.join(" ")
 ```
 
+### Push
+
+Push inseri um valor dentro do vetor.
+
+```ruby
+precos = [19.90, 10, 2.33, 0.99]
+
+precos.push (20)
+
+puts precos
+# [19.90, 10, 2.33, 0.99, 20]
+```
+
+### Delete
+
+Delete remove um valor de dentro do vetor.
+
+```ruby
+precos = [19.90, 10, 2.33, 0.99]
+
+precos.delete (10)
+
+puts precos 
+# [19.90, 2.33, 0.99]
+```
+
 Há outras dezenas de funções em Arrays, mas essas são as básicas.
 
 # Fontes:
