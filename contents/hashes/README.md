@@ -99,4 +99,3 @@ Em Ruby e muinto comum utilizar
 
 [Expressões Regulares](../expressoes_regulares/README.md)
 
-[Simbolos](../simbolos/README.md) para representar as chaves.
