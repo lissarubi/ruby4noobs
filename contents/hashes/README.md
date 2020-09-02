@@ -11,15 +11,15 @@ Exemplo:
 ````
 Abrindo o terminal do Ruby ou o Interactive Ruby(irb)
 
-Como podemos trablhar com o **Hash**:
+Como podemos trabalhar com o **Hash**:
 
-Esta e a forma de indexar o **Hash**, 
+Esta é a forma de indexar o **Hash**, 
 ````shell
    > telefone[:home]      # => 1
 
    >telefone2["home"]     # => 1
 ````
-esta devolve o valor associado a chave ``:home`` em otras palavras 1.
+esta devolve o valor associado a chave ``:home`` em outras palavras 1.
 
 ````shell
    > telefone.key(1)      # => :home
@@ -47,7 +47,7 @@ Não apenas podemos definir um **Hash** implicitamente, mas também podemos faze
 ```ruby
     browsers = Hash.new  #=> {}
 ```
-Este cria um **Hash** vazio, E para adicionar mais informaç, e simples.
+Este cria um **Hash** vazio, e para adicionar mais informações é simples.
 ````ruby
     browsers[:name] = "Chrome"
 ````
@@ -73,7 +73,7 @@ Ele vai me retornar que nil, este não existe
 Como posso resolver essa parte?
 Existem duas formas de especificar um valor por padrão. Este irá executar quando não encontre um elemento.
 
-Uma das formas e no momento que estou criando meu **Hash**, desta forma.
+Uma das formas é no momento que estou criando meu **Hash**, desta forma.
 
 ````ruby
     browsers = Hash.new("padrao")
@@ -87,14 +87,10 @@ ou
 ````
 
 isso o torna algo muito bom de usar dentro de um **Hash**, pois é algo que os arrays não suportam.
-Os Hashes e uma forma simples de representar estructuras de dados
-dentro do Ruby e sao normalmente usados como parâmetros nomeados dentro de funçoes dentro de Ruby e Rails
+Os Hashes é uma forma simples de representar estructuras de dados
+dentro do Ruby e são normalmente usados como parâmetros nomeados dentro de funções dentro de Ruby e Rails
 
 Notaçao:
 Em Ruby e muinto comum utilizar 
 
 [Simbolos](../simbolos/README.md) para representar as chaves.
-
-## Proximo =>
-
-[Expressões Regulares](../expressoes_regulares/README.md)
