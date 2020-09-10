@@ -45,3 +45,7 @@ FOO
 ```
 
 Você pode ver mais sobre literais [aqui](https://docs.ruby-lang.org/en/2.0.0/syntax/literals_rdoc.html)
+
+## Proximo =>
+
+[O que é Rails?](../rails/README.md)
