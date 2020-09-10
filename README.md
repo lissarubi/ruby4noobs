@@ -27,7 +27,8 @@ Este repositório é um tutorial dedicado ao ensino da Linguagem de programaçã
 11. [Simbolos](contents/simbolos/README.md)
 12. [Hashes](contents/hashes/README.md)
 13. [Expressões Regulares](contents/expressoes_regulares/README.md)
-14. [O que é o Rails?](contents/rails/README.md)
+14. [Literais](contents/literais/README.md)
+15. [O que é o Rails?](contents/rails/README.md)
 
 ### Avançado
 1. [Ruby Gems](contents/gems/README.md)
