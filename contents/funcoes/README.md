@@ -30,9 +30,9 @@ Irá ocorrer isso:
 ```
 irb(main):034:0> nome_tela()
 Traceback (most recent call last):
-        6: from /home/ederson/.asdf/installs/ruby/2.7.1/bin/irb:23:in `<main>'
-        5: from /home/ederson/.asdf/installs/ruby/2.7.1/bin/irb:23:in `load'
-        4: from /home/ederson/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/irb-1.2.3/exe/irb:11:in `<top (required)>'
+        6: from /home/lissa/.asdf/installs/ruby/2.7.1/bin/irb:23:in `<main>'
+        5: from /home/lissa/.asdf/installs/ruby/2.7.1/bin/irb:23:in `load'
+        4: from /home/lissa/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/irb-1.2.3/exe/irb:11:in `<top (required)>'
         3: from (irb):33
         2: from (irb):34:in `rescue in irb_binding'
         1: from (irb):27:in `nome_tela'

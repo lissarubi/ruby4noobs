@@ -47,4 +47,4 @@ Execute `` gem build olamundo.gemspec``, o arquivo ``olamundo.gem`` será criado
 
 Caso você tenha digitado, testado, experimentado, enfim, todos os códigos e exemplos contidos neste 4Noobs você já sabe o básico do Ruby, divulge este repositório, dê Star, e busque ensinar as pessoas o que você sabe, pois quem mais aprende, é você.
 
-Feito por Ederson Ferreira, contato: edersondeveloper@gmail.com
+Feito por Lissa Ferreira, contato: lissadeveloper@gmail.com
